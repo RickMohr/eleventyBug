@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@11ty/eleventy": "github:11ty/eleventy",
+    "handlebars": "^4.7.8"
+  }
+}
